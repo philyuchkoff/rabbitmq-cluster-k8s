@@ -9,9 +9,7 @@ metadata:
 spec:
   storageClassName: rabbitmq-data
   capacity:
-    storage: 10Gi
-  accessModes:
-    - ReadWriteMany
+    storage: 15Gi
   persistentVolumeReclaimPolicy: Recycle
   hostPath:
     path: "/opt/rabbitmq-data"
