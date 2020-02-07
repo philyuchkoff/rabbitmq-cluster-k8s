@@ -45,3 +45,6 @@ http://www.rabbitmq.com/ha.html
 -   [Описание split-brain проблем при кластеризации и способов их решения](http://www.rabbitmq.com/partitions.html)
 -   [High Availability Queues в RabbitMQ](http://www.rabbitmq.com/ha.html)
 -   [Настройка Policies](http://www.rabbitmq.com/parameters.html#policies)
+
+### Helm
+Кстати, есть готовый чарт для хелма: github.com/helm/charts/tree/master/stable/rabbitmq-ha
