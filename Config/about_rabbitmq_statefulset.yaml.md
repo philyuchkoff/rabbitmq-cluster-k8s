@@ -3,7 +3,7 @@
 serviceName: rabbitmq-internal
 ```
 
-  
+ 
 Прописываем имя headless-сервиса, через который общаются поды в StatefulSet.  
   
 
