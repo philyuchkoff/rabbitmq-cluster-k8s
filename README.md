@@ -43,4 +43,4 @@ http://www.rabbitmq.com/ha.html
 -   [Настройка Policies](http://www.rabbitmq.com/parameters.html#policies)
 
 ### Helm
-Кстати, есть готовый helm chart: github.com/helm/charts/tree/master/stable/rabbitmq-ha
+Есть готовый [helm chart](github.com/helm/charts/tree/master/stable/rabbitmq-ha)
